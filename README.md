@@ -1,0 +1,2 @@
+# testEnvUploadRepo
+测试配置git以及ssh上下传文件功能是否正常
